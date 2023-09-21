@@ -1,4 +1,3 @@
-'''
 import requests 
 from bs4 import BeautifulSoup 
 import random 
@@ -85,4 +84,3 @@ class WorkoutPlanner:
 if __name__ == "__main__":
     planner = WorkoutPlanner()
     planner.create_workout_plan()
-'''
